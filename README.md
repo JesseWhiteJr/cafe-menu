@@ -1,2 +1,2 @@
 # cafe-menu
-html/css menu project
+This is another project built with html and css, with more styling than my previous projects.
